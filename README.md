@@ -189,25 +189,6 @@ Pizza-Sales-SQL-Project/
 - **MySQL Workbench**
 - **Git & GitHub**
 
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/pizza-sales-sql-project.git
-```
-
-2. Open the project in **MySQL Workbench**.
-
-3. Import or execute the dataset SQL file.
-
-4. Select the required database:
-
-```sql
-USE pizza_sales;
-```
-
-5. Run the analysis queries individually or execute the complete SQL file.
 
 ## 📈 What This Project Demonstrates
 
@@ -225,10 +206,9 @@ It covers:
 
 ## 👤 Author
 
-**Your Name**
+**Mayank Chamola**
 
-GitHub: `https://github.com/your-username`
+GitHub: `https://github.com/mayankchamola`
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star.
